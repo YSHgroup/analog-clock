@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+}
+body {
+  background-color: unset!important;
+}
